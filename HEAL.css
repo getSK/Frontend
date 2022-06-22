@@ -1,0 +1,325 @@
+body{background-color:rgba(0, 165, 180, 0.466);
+    position: sticky;
+    top: 30px ;
+}
+
+#divtop{background-color:rgb(112, 210, 219) ;
+    text-align: right;
+    padding: 5px 0px 1px 0px;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    position: static;
+    top: 30px;
+    }
+
+   
+
+
+#heal{background-color:rgba(255, 255, 255, 0.349) ;
+      padding: 20px 0px 10px 0px;
+      margin-top: 0pxs;
+      border: 30px;
+     border-radius: 15px 15px 0px 0px;
+      
+      
+      
+    }
+
+h1{font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: rgb(66,158,157);
+    padding-left: 15px;
+    
+    
+    
+}
+
+h4{font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: rgb(0, 0, 0);
+    padding-left: 20px;
+    
+
+}
+
+
+
+#divlink{background-color: rgba(255, 255, 255, 0.349);
+        text-align: right;
+        word-spacing: .4cm;
+        padding: 5px 20px 0px 20px;
+        border: 30px;
+        border-radius:  0px 0px 15px 15px ; 
+
+}
+
+li{display:inline;
+   padding: 20px;} 
+
+
+a{  color: rgb(66,158,157);
+    text-decoration:none ;
+    font-size: 30px;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    
+
+}
+
+a:hover{
+        color: rgb(66,158,157);
+        font-size: 32px;
+}
+
+
+h2{font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: xx-large;
+    color: rgb(12, 12, 12);
+    text-align: center;
+    
+
+}
+
+
+#docpatient{background-color: rgb(254, 255, 255);
+            margin-top: 10px;
+            border: 20px;
+            border-radius: 10px;
+
+}
+
+#form{width: 100%;
+    background-color: rgba(255, 255, 255, 0.466);
+    border: 20px;
+    border-radius: 10px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    padding: 5px 0px 20px 0px; 
+     text-align: center;
+}
+
+
+
+.button{color: rgb(66,158,157);
+    text-decoration:none ;
+    font-size: 15px;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    padding: 0px 10px 0px 10px;
+    margin: 0px 10px 0px 10px;
+
+}
+
+a.button:hover{color: rgb(66,158,157);
+               font-size: 17px;
+               background-color: rgb(255, 255, 255);
+               
+}
+
+#healapp{height: 90%;
+         width: 100%;
+         border: 20px;
+         border-radius: 10px;
+}
+
+
+#title{text-align: center;}
+
+#departments{width: 60%; 
+            background-color: rgb(255, 255, 255);
+            background-size: 40%;
+            border: 20px;
+            border-radius: 8px;
+            padding: 10px 20px 20px 10px;
+            margin-bottom: 20px;
+            border: 10px solid rgba(255, 255, 255, 0.349);
+}
+
+
+
+.departments_img{width: 150px; height: 150px;
+                text-align: center;
+                border: 20px;
+                border-radius: 8px;
+}
+
+.departments_desc{float: right;
+                  width: 80%;
+                  text-align: left;
+                  font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+
+
+
+.button_department{color: rgb(66,158,157);
+    background-color: rgb(255, 255, 255);
+    text-decoration:none ;
+    font-size: 15px;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    padding: 0px 10px 0px 10px;
+    margin: 0px 10px 0px 10px;
+    float: right;
+}
+
+a.button_department:hover{color: rgba(43, 41, 41, 0.884);
+    font-size: 15px;
+    
+}
+
+#appoinment{width: 35%;
+    text-align: center;
+    background-color: rgb(255, 255, 255);
+    border: 25px; 
+    border-radius: 10px;
+    padding: 15px 0px 20px 20px;
+    margin:auto;
+    row-gap: 30px;
+
+
+
+}
+
+tr,td{padding: 10px;
+text-align: center;
+table-layout: auto;
+margin: auto;
+
+}     
+
+
+
+#button_booking{color: rgb(66,158,157);
+    text-decoration:none ;
+    font-size: 25px;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    padding: 0px 10px 0px 10px;
+    margin: 0px 10px 0px 10px;  
+    border: 5px;
+    border-radius: 5px;
+}
+
+a#button_booking:hover{color: rgb(66,158,157);
+    font-size: 25px;
+    background-color: rgb(255, 255, 255);
+    border: 5px;
+    border-radius: 5px;
+}
+
+
+
+#health_check{width: 35%;
+    text-align: center;
+    background-color: rgb(255, 255, 255);
+    border: 25px; 
+    border-radius: 10px;
+    padding: 15px 0px 20px 20px;
+    margin:auto;
+    row-gap: 30px;
+
+
+}
+
+label{padding: 10px;
+text-align: center;
+margin: auto;
+row-gap: 30px;
+
+}     
+
+#button_checkup{color: rgb(66,158,157);
+    text-decoration:none ;
+    font-size: 25px;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    padding: 0px 10px 0px 10px;
+    margin: 0px 10px 0px 10px;  
+    border: 5px;
+    border-radius: 5px;
+    
+    }
+    
+a#button_checkup:hover{color: rgb(66,158,157);
+    font-size: 25px;
+    background-color: rgb(255, 255, 255);
+    border: 5px;
+    border-radius: 5px;
+   
+    }
+
+input{
+margin-bottom: 10px;
+}
+
+#doctors{
+    background-color: rgba(171, 241, 240, 0);
+    float:left;
+     width: 25%; 
+     display:inline;
+     text-align: center;
+     padding: 20px  0px 20px 0px;
+}
+
+.doctorsimg{background-color:rgba(171, 241, 240, 0.548) ; 
+        height: 250px; width: 200px;
+        padding: 10;
+        border: 20px;
+        border-radius: 10px;
+        
+        
+
+
+}       
+
+
+.button{color: rgb(66,158,157);
+background-color: rgb(171, 241, 240);
+text-decoration:none ;
+font-size: 15px;
+font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+padding: 0px 10px 0px 10px;
+margin: 0px 10px 0px 10px;
+border: 5px;
+border-radius: 5px;
+}
+
+a.button:hover{color: rgb(66,158,157);
+           font-size: 15px;
+           background-color: rgb(255, 255, 255);
+           border: 5px;
+           border-radius: 5px;
+           
+}
+
+#payment{width: 35%;
+    text-align: center;
+    background-color: rgb(255, 255, 255);
+    border: 25px; 
+    border-radius: 10px;
+    padding: 15px 0px 20px 20px;
+    margin:auto;
+    row-gap: 30px;
+    
+    
+    
+}
+
+form{padding: 10px;
+text-align: center;
+margin: auto;
+row-gap: 30px;
+
+}     
+
+#button_payment{color: rgb(66,158,157);
+    text-decoration:none ;
+    font-size: 25px;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    padding: 0px 10px 0px 10px;
+    margin: 0px 10px 0px 10px;  
+    border: 5px;
+    border-radius: 5px;
+    
+    }
+    
+a#button_payment:hover{color: rgb(66,158,157);
+    font-size: 25px;
+    background-color: rgb(255, 255, 255);
+    border: 5px;
+    border-radius: 5px;
+   
+    }
+

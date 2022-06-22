@@ -1,0 +1,13 @@
+body{background-image:"y1.jpg" width="720" height="1080";}
+
+/* h5{ background-color: gray; float:left; width: 10%;
+} */
+
+/* img{height: 13%; width: 15%; float:center;} */
+
+h1{color: rgb(63, 135, 168); 
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;}
+
+h2{color: rgb(1, 14, 11); 
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    align-content: center;}
